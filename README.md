@@ -10,4 +10,8 @@ Socials:
 
 [Github Profile](https://github.com/daniberrry) :full_moon:
 
-[YouTube](https://github.com/daniberrry) :strawberry:
+[YouTube](https://www.youtube.com/@danicajulienneberdin) :strawberry:
+
+[Facebook](https://www.facebook.com/danica.julienne/) :ocean:
+
+[Instagram](https://www.instagram.com/danica.julienne/) :hibiscus:
