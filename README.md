@@ -1,2 +1,2 @@
 # daniberrry.github.io
-**Danica Julienne L. Berdin**
+Danica Julienne L. Berdin
