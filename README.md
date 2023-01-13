@@ -6,6 +6,18 @@
 Greetings :3 Welcome to Dani's space. Enjoy !
 ```
 
+| Days | Priorities |
+| ----------- | ----------- |
+| Weekends | Family Time, Break, Rewind |
+| Weekdays | Studies, Training, Spending Time with Friends |
+
+To Do's:
+
+- [x] English Review
+- [ ] Science Research
+- [ ] Science Case
+- [ ] Buy Whistle
+
 Socials:
 
 [Github Profile](https://github.com/daniberrry) :full_moon:
