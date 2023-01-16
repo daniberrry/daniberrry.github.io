@@ -11,13 +11,12 @@ Greetings :3 Welcome to Dani's space. Enjoy !
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGv7CUutzqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<p align="center">
 | Days | Priorities |
 | ----------- | ----------- |
 | Weekends | Family Time, Break, Rewind |
 | Weekdays | Studies, Training, Spending Time with Friends |
-</p>
 
+<img src="https://i.pinimg.com/564x/74/3c/e8/743ce808771615a0e95a41f9fbd2f2c6.jpg" width="440" height="300">
 
 To Do's:
 
